@@ -1,4 +1,3 @@
 # C++ University
 
-A repository for sharing examples of C++ programs or projects completed throughout my time in university.
-
+C/C++ programs or projects completed by me throughout my university degree
